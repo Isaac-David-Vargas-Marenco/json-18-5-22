@@ -1,0 +1,40 @@
+{"nombre": "Isaac Vargas Marenco",
+"direccion": "Puntarenas, Barrenca , Cueva del sapo",
+"comida_preferida": "pastas",
+"Animales": {
+    "perro1": [
+        "Loki",
+        "Raza mixta"
+    ],
+    "perro2": [
+        "Luna",
+        "Doverman"
+    ],
+    "perro3": [
+        "canela",
+        "Chihuahua"
+    ],
+    "conejo1": [
+        "nieves",
+        "chincha gigante"
+    ]
+},
+"informacion_complementarias": [
+    {
+        "detalles": [
+            {
+                "cabello": "negro"
+            },
+            {
+                "musica_preferida": "The 80s"
+            }
+        ]
+    }
+],
+"edad": 18,
+"metadata": {
+    "page": 1,
+    "total_pages": 1,
+    "keys": 10
+}
+}
